@@ -1,6 +1,5 @@
 flask==3.0.0
 flask-cors==4.0.0
-rembg==2.0.75
+rembg[cpu]==2.0.75
 Pillow==12.1.0
 gunicorn==21.2.0
-onnxruntime==1.17.1
